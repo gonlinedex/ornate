@@ -1,0 +1,6 @@
+{
+  "name": "Ornate Iron Decor",
+  "description": "Custom wrought-iron driveway gates, pedestrian gates, metal and laser-cut railings, and architectural fencing crafted in Woodbridge, Ontario for Toronto, Vaughan, and the GTA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
